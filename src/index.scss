@@ -171,6 +171,10 @@ $dig-opacities: (
 }
 // ========== NAV END ==========
 
+.superlatives-tooltip .tooltip-inner {
+  max-width: none;
+}
+
 .condition-tooltip > div > div {
   background-color: $primary;
 }
